@@ -1,0 +1,19 @@
+{
+  "name": "background-color",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scriptcolor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Ademola94/tester-by.git"
+  },
+  "author": "Ademola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ademola94/tester-by/issues"
+  },
+  "homepage": "https://github.com/Ademola94/tester-by#readme"
+}
